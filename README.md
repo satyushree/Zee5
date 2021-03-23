@@ -6,6 +6,8 @@
 - Can stream Premium Contents
 - Serverless
 - Can be deployed using Cloudflare Worker for free
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/satyushree/Zee5)
+
 
 ### Usage:
 *You can render Player in two methods 👇*
